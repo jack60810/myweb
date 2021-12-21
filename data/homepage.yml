@@ -1,0 +1,92 @@
+head:
+  title: "Jack Tsai's Data Science Profile"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Jack Tsai"
+  subtitle: "Sr. Data Scientist"
+  description: "Jack is the Sr. Data Scientist of <a target='_blank' href='https://www.9count.co/'>9count</a>, We are passionate about building apps that help Gen Z feel connected. Also a Lecturer of Tamkang University, teach Data Visualization, Exploration and Application of Internet Data, R language and Data Mining."
+  image:
+    x: "img/showcase/skills.JPG"
+    _2x: "img/showcase/skills.JPG"
+  imageMobile:
+    x: "img/showcase/skills.JPG"
+    _2x: "img/showcase/skills.JPG"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Jack"
+    URL: "mailto:jack608102@gmail.com"
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love helping people with data.</strong>  I always want to use data to help people understand their world.
+    Every Entrepreneur desires the perfect Strategy to reach the vision quickly. And I want to participate in with Data.
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> are telecommunications industry and Social apps. 
+    I'm good at R Language, data analysis, data mining and parallel computing. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/yu-ju-t-3b5547110/"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 6+ years of experience working with companies from all over the world. I design & develop data science projects to help companies increase profitability and improve user's experience.
+  As a good scientist or analyst, finding a good solution and quickly delivering is my value, and in a short period of time, I always can give a quick and fitable solution to launch the report or feature, and we can use the past success to implement our success in the future.
+"
+  image:
+    x: "img/showcase/skills.JPG"
+    _2x: "img/showcase/skills.JPG"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/yu-ju-t-3b5547110/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "https://www.linkedin.com/in/yu-ju-t-3b5547110"
+
+  items:
+    - title: "Sr. Data Scientist"
+      company: "9Count"
+      duration: "Oct 2021 - "
+
+    - title: "Sr. Data Scientist"
+      company: "Goodnight and 17Live"
+      duration: "Apr 2019 - Oct 2021"
+
+    - title: "Data Scientist"
+      company: "Huawei Technologies"
+      duration: "Oct 2018 - Apr 2019"
+      
+    - title: "Data Analyst"
+      company: "Taiwan Star Telecom Co. Ltd."
+      duration: "Oct 2015 - Oct 2017" 
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Tamkang University"
+      year: "2013-2014"
+      degree: "Master of Statistics"
+
+    - university: "Tamkang University"
+      year: "2009-2013"
+      degree: "Bachelor of Statistics"
+      
+
